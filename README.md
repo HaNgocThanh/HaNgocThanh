@@ -1,4 +1,4 @@
-# Hi there, I'm Jenny! 👋 
+# Hi there, I'm Thanh! 👋 
 
 ### 🚀 Backend Developer Intern | Software Engineering Student
 I'm a passionate developer focusing on building scalable, maintainable backend systems using .NET 8. I love exploring Design Patterns and system architecture.
@@ -15,8 +15,8 @@ I'm a passionate developer focusing on building scalable, maintainable backend s
 ---
 
 ### 📊 GitHub Stats
-![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaNgocThanh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaNgocThanh&layout=compact&theme=radical)
 
 ---
 
